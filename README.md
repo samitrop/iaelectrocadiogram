@@ -4,7 +4,6 @@
 >
 > *Published in [Circulation](https://www.ahajournals.org/journal/circ), 2026*
 
-
 ## Authors
 
 | Author | Institution |
