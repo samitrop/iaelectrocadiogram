@@ -4,15 +4,6 @@
 >
 > *Published in [Circulation](https://www.ahajournals.org/journal/circ), 2026*
 
----
-
-## Overview
-
-This repository accompanies the manuscript describing a prospective study evaluating the **feasibility and diagnostic accuracy** of an AI-enabled electrocardiogram (AI-ECG) for opportunistic screening of Chagas disease. The study investigates whether a deep learning model applied to standard 12-lead ECG data can identify individuals with Chagas disease in real-world clinical settings.
-
-Chagas disease, caused by *Trypanosoma cruzi*, remains a major public health challenge in Latin America, with cardiac involvement being the leading cause of morbidity and mortality. AI-enabled ECG analysis offers a scalable, non-invasive, and low-cost approach to opportunistic screening in endemic and non-endemic regions alike.
-
----
 
 ## Authors
 
