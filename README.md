@@ -2,7 +2,6 @@
 
 > **Opportunistic screening for Chagas disease using an artificial intelligence–enabled electrocardiogram: prospective evaluation of feasibility and diagnostic accuracy**
 >
-> *Published in [Circulation](https://www.ahajournals.org/journal/circ), 2026*
 
 ## Authors
 
